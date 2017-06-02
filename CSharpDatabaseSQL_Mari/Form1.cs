@@ -72,7 +72,7 @@ namespace CSharpDatabaseSQL_Mari
             TicketStaffds = new DataSet();
             MyTicketStaffds = new DataSet();
 
-            Con.ConnectionString = "Data Source=(localdb)\\mssqllocaldb;AttachDbFilename=G:\\CSharpDatabaseSQL_Mari\\CSharpDatabaseSQL_Phase3-4_Mari\\CSharpDatabaseSQL_Mari\\controlTables.mdf;Integrated Security=True";
+            Con.ConnectionString = "Data Source=(localdb)\\mssqllocaldb;AttachDbFilename=C:\\Users\\Mariana\\Desktop\\ITD\\Second Term\\CSharp\\CSharpDatabaseSQL_Mari\\CSharpDatabaseSQL_Phase3-4_Mari\\CSharpDatabaseSQL_Mari\\controlTables.mdf;Integrated Security=True";
             Con.Open();
             // Attempting to access Admin Table
             string Adminsqlstr;
@@ -135,11 +135,11 @@ namespace CSharpDatabaseSQL_Mari
             // Attempting to Search in a table(Admin)
             // creating a data row array so the result 
             // of search appears in it
-            System.Data.DataRow[] foundRows;
+            DataRow[] foundRows;
             String Strtofind;
             if (txtAdminID.Text == "")
             {
-                System.Windows.Forms.MessageBox.Show("Please enter an Admin ID!");
+            MessageBox.Show("Please enter an Admin ID.");
                 return;
             }
             Strtofind = "AdminID =" + txtAdminID.Text;
@@ -181,11 +181,11 @@ namespace CSharpDatabaseSQL_Mari
 
         private void btnStaffLogin_Click(object sender, EventArgs e)
         {
-            System.Data.DataRow[] foundRows;
+            DataRow[] foundRows;
             String Strtofind;
             if (txtStaffIDLogin.Text == "")
             {
-                System.Windows.Forms.MessageBox.Show("Please enter a Staff ID!");
+                MessageBox.Show("Please enter a Staff ID!");
                 return;
             }
             Strtofind = "StaffID =" + txtStaffIDLogin.Text;
@@ -229,11 +229,11 @@ namespace CSharpDatabaseSQL_Mari
 
         private void btnCustomerLogin_Click(object sender, EventArgs e)
         {
-            System.Data.DataRow[] foundRows;
+            DataRow[] foundRows;
             String Strtofind;
             if (txtCustomerIDLogin.Text == "")
             {
-                System.Windows.Forms.MessageBox.Show("Please enter a Customer ID!");
+                MessageBox.Show("Please enter a Customer ID!");
                 return;
             }
             Strtofind = "CustomerID =" + txtCustomerIDLogin.Text;

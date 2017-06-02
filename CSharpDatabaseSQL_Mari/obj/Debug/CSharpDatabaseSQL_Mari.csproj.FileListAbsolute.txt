@@ -76,3 +76,14 @@ G:\CSharpDatabaseSQL_Mari\CSharpDatabaseSQL_Phase3-4_Mari\CSharpDatabaseSQL_Mari
 G:\CSharpDatabaseSQL_Mari\CSharpDatabaseSQL_Phase3-4_Mari\CSharpDatabaseSQL_Mari\obj\Debug\CSharpDatabaseSQL_Mari.Form1.resources
 G:\CSharpDatabaseSQL_Mari\CSharpDatabaseSQL_Phase3-4_Mari\CSharpDatabaseSQL_Mari\obj\Debug\CSharpDatabaseSQL_Mari.Properties.Resources.resources
 G:\CSharpDatabaseSQL_Mari\CSharpDatabaseSQL_Phase3-4_Mari\CSharpDatabaseSQL_Mari\obj\Debug\CSharpDatabaseSQL_Mari.csproj.GenerateResource.Cache
+C:\Users\Mariana\Desktop\ITD\Second Term\CSharp\CSharpDatabaseSQL_Mari\CSharpDatabaseSQL_Phase3-4_Mari\CSharpDatabaseSQL_Mari\bin\Debug\CSharpDatabaseSQL_Mari.exe.config
+C:\Users\Mariana\Desktop\ITD\Second Term\CSharp\CSharpDatabaseSQL_Mari\CSharpDatabaseSQL_Phase3-4_Mari\CSharpDatabaseSQL_Mari\obj\Debug\CSharpDatabaseSQL_Mari.exe
+C:\Users\Mariana\Desktop\ITD\Second Term\CSharp\CSharpDatabaseSQL_Mari\CSharpDatabaseSQL_Phase3-4_Mari\CSharpDatabaseSQL_Mari\obj\Debug\CSharpDatabaseSQL_Mari.pdb
+C:\Users\Mariana\Desktop\ITD\Second Term\CSharp\CSharpDatabaseSQL_Mari\CSharpDatabaseSQL_Phase3-4_Mari\CSharpDatabaseSQL_Mari\bin\Debug\controlTables.mdf
+C:\Users\Mariana\Desktop\ITD\Second Term\CSharp\CSharpDatabaseSQL_Mari\CSharpDatabaseSQL_Phase3-4_Mari\CSharpDatabaseSQL_Mari\bin\Debug\controlTables_log.ldf
+C:\Users\Mariana\Desktop\ITD\Second Term\CSharp\CSharpDatabaseSQL_Mari\CSharpDatabaseSQL_Phase3-4_Mari\CSharpDatabaseSQL_Mari\bin\Debug\CSharpDatabaseSQL_Mari.exe
+C:\Users\Mariana\Desktop\ITD\Second Term\CSharp\CSharpDatabaseSQL_Mari\CSharpDatabaseSQL_Phase3-4_Mari\CSharpDatabaseSQL_Mari\bin\Debug\CSharpDatabaseSQL_Mari.pdb
+C:\Users\Mariana\Desktop\ITD\Second Term\CSharp\CSharpDatabaseSQL_Mari\CSharpDatabaseSQL_Phase3-4_Mari\CSharpDatabaseSQL_Mari\obj\Debug\CSharpDatabaseSQL_Mari.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\Desktop\ITD\Second Term\CSharp\CSharpDatabaseSQL_Mari\CSharpDatabaseSQL_Phase3-4_Mari\CSharpDatabaseSQL_Mari\obj\Debug\CSharpDatabaseSQL_Mari.Form1.resources
+C:\Users\Mariana\Desktop\ITD\Second Term\CSharp\CSharpDatabaseSQL_Mari\CSharpDatabaseSQL_Phase3-4_Mari\CSharpDatabaseSQL_Mari\obj\Debug\CSharpDatabaseSQL_Mari.Properties.Resources.resources
+C:\Users\Mariana\Desktop\ITD\Second Term\CSharp\CSharpDatabaseSQL_Mari\CSharpDatabaseSQL_Phase3-4_Mari\CSharpDatabaseSQL_Mari\obj\Debug\CSharpDatabaseSQL_Mari.csproj.GenerateResource.Cache
